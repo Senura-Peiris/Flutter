@@ -183,3 +183,5 @@ Junior developer job
 
   ## DP Education Flutter Lecture Series - (308 videos)
   <image src="https://github.com/Senura-Peiris/Flutter/blob/main/Screenshot%202026-04-06%20101946.png" width="400px" height="300px"/>
+  <br/>
+  Youtube Video Links : https://www.youtube.com/watch?v=X3lrZvo_lf0&list=PLWOPiU7tDzap4WdZn4ZbdUj9dfqgDLxKW
