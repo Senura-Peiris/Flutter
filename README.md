@@ -180,3 +180,6 @@ Junior developer job
      
          I have completed this Course
          <img src="https://github.com/Senura-Peiris/Flutter/blob/main/Screenshot%202026-04-06%20101206.png" width="400px" height="300px"/>
+
+  ## DP Education Flutter Lecture Series - (308 videos)
+  <image src="" width="" height=""/>
