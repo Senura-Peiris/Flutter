@@ -171,3 +171,9 @@ Junior developer job
    3. Flutter architecture
    4. Windows installation of Flutter
    5. Advantages and disadvantages of using Flutter
+
+      ## 4 main Architecture of Flutter
+      1. Widgets
+      2. Gesture - Capture user interaction
+      3. State - Special widgets
+      4. Layers - Arrange top to down as Most Complex to least complex 
