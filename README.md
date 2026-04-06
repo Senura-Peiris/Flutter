@@ -176,4 +176,7 @@ Junior developer job
       1. Widgets
       2. Gesture - Capture user interaction
       3. State - Special widgets
-      4. Layers - Arrange top to down as Most Complex to least complex 
+      4. Layers - Arrange top to down as Most Complex to least complex
+     
+         I have completed this Course
+         <img src="" width="400px" height="300px"/>
