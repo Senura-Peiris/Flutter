@@ -163,3 +163,11 @@ Junior developer job
 2. I choose Great Learn course to learn flutter. Here is the link : https://www.mygreatlearning.com/academy/learn-for-free/courses/flutter-for-beginners?utm_source=share_with_friends&utm_medium=copy_link
 
    <img src="https://github.com/Senura-Peiris/Flutter/blob/main/Screenshot%202026-04-06%20090053.png" width="600px" height="500px"/>
+
+   Agenda Of This Course
+ In this course, we will learn ,
+1. Introduction to Flutter
+2. Feature of Flutter
+3. Flutter architecture
+4. Windows installation of Flutter
+5. Advantages and disadvantages of using Flutter
