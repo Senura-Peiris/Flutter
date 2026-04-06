@@ -32,7 +32,8 @@ Startup products
 Flutter Intern
 Junior Flutter Developer
 Senior Flutter Engineer
-<img src="" width="" height=""/>
+
+<img src="https://github.com/Senura-Peiris/Flutter/blob/main/how%20to%20become%20flutter%20developer%20image.jpg" width="600px" height="400px"/>
 🛣️ 3. Flutter Developer Roadmap (Step-by-Step)
 🧱 Step 1: Programming Basics
 Learn:
