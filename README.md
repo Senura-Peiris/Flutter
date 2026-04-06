@@ -166,8 +166,8 @@ Junior developer job
 
    Agenda Of This Course
  In this course, we will learn ,
-1. Introduction to Flutter
-2. Feature of Flutter
-3. Flutter architecture
-4. Windows installation of Flutter
-5. Advantages and disadvantages of using Flutter
+   1. Introduction to Flutter
+   2. Feature of Flutter
+   3. Flutter architecture
+   4. Windows installation of Flutter
+   5. Advantages and disadvantages of using Flutter
