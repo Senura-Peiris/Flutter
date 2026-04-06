@@ -1,4 +1,4 @@
-<img src="https://github.com/Senura-Peiris/Flutter/blob/main/flutter%20image1.jpg" width="100%" height="250px"/>
+<img src="https://github.com/Senura-Peiris/Flutter/blob/main/flutter%20image1.jpg" width="100%" height="260px"/>
 
 # Flutter
 
